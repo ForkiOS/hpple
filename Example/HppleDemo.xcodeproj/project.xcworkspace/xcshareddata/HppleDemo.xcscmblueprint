@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C98F34640CDAF8C591AEB91EEF768A6198C4416E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CCDAA846184422A9B49A3DF083EADFE80FD80EB9" : 9223372036854775807,
+    "C98F34640CDAF8C591AEB91EEF768A6198C4416E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "04B9DD25-3803-4507-BF94-DAD8DD153305",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CCDAA846184422A9B49A3DF083EADFE80FD80EB9" : "..",
+    "C98F34640CDAF8C591AEB91EEF768A6198C4416E" : "hpple\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HppleDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/HppleDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ForkiOS\/hpple.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C98F34640CDAF8C591AEB91EEF768A6198C4416E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hello--world\/YouDaoCloudBook",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CCDAA846184422A9B49A3DF083EADFE80FD80EB9"
+    }
+  ]
+}
